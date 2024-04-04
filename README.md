@@ -1,6 +1,4 @@
-# innowise_java_hackathon  
-
-This bot will help to count the number of messages in the chat.  
+# Cryptocurrency Telegram Bot
 The following commands are available to you:  
   /start - start the bot  
   /help - help menu  
