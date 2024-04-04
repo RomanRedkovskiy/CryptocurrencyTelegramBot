@@ -2,7 +2,7 @@
 The following commands are available to you:  
   /start - start the bot  
   /help - help menu  
-  /percentage - change percentage change to notify  
+  /percentage - change percentage to notify  
   /all - receive all cryptocurrency data  
 
 User and Cryptocurrency tables in database  
